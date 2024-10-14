@@ -6,6 +6,7 @@ Os bancos de dados podem ser categorizados de várias maneiras, sendo que uma da
 
 ## **Tipagens de Dados mais utilizados**
 =====================================
+
 `int` - númerico inteiro
 `char` ou `varchar` - string (letras e números)
 `decimal` - número com casa (bom para valores em reais)
