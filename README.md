@@ -46,3 +46,38 @@ Os bancos de dados podem ser categorizados de várias maneiras, sendo que uma da
 
 ### Resumo
 Essas cláusulas ajudam a garantir a integridade e a estrutura do banco de dados, evitando dados duplicados, nulos ou inconsistentes, e facilitando o gerenciamento e a relação entre diferentes tabelas.
+
+---
+
+```sql
+CREATE TABLE alunos (
+id_aluno INT,
+nome VARCHAR(50),
+nascimento DATE,
+endereco VARCHAR(80),
+email VARCHAR(100),
+celular VARCHAR(25),
+mensalidade DECIMAL,
+PRIMARY KEY (id_aluno)
+)
+Execute
+
+ALTER TABLE alunos CHANCE id_aluno 'id_aluno'
+INT(11) NOT NULL AUTO_INCREMENT;
+Execute // aqui o campo id_aluno será auto incremental
+```
+
+Para incluír um registro em uma tabela:
+
+insert into alunos (nome, nascimento, endereço, mensalidade, email, celular) value ('Francisco Alves', '1980-12-10', 'Rua tito, 800', '450', 'chico@gmail.com', '11987654321')
+
+Para alterar:
+update alunos set mensalidade='500', celular='11987654321'
+  where id_aluno = 1
+
+Para excluír:
+delete from alunos where id_alunos = 1
+
+Para consultar:
+select * from alunos where mensalidade > 300
+
