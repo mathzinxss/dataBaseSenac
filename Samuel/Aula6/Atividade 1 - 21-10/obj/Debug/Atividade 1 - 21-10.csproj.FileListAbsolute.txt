@@ -1,0 +1,7 @@
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\bin\Debug\Atividade 1 - 21-10.exe.config
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\bin\Debug\Atividade 1 - 21-10.exe
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\bin\Debug\Atividade 1 - 21-10.pdb
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\obj\Debug\Atividade 1 - 21-10.csproj.AssemblyReference.cache
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\obj\Debug\Atividade 1 - 21-10.csproj.CoreCompileInputs.cache
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\obj\Debug\Atividade 1 - 21-10.exe
+C:\Users\samuel.fsousa4\source\repos\Aula6\Atividade 1 - 21-10\obj\Debug\Atividade 1 - 21-10.pdb
