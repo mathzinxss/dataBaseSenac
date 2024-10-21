@@ -1,0 +1,14 @@
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\bin\Debug\net6.0\ex007.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\bin\Debug\net6.0\ex007.deps.json
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\bin\Debug\net6.0\ex007.runtimeconfig.json
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\bin\Debug\net6.0\ex007.dll
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\bin\Debug\net6.0\ex007.pdb
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.AssemblyInfoInputs.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.AssemblyInfo.cs
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.dll
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\refint\ex007.dll
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.pdb
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ex007.genruntimeconfig.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 2\ex007\obj\Debug\net6.0\ref\ex007.dll

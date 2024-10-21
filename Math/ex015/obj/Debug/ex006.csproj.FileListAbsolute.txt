@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\bin\Debug\ex006.exe.config
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\bin\Debug\ex006.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\bin\Debug\ex006.pdb
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\obj\Debug\ex006.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\obj\Debug\ex006.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\obj\Debug\ex006.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\ex006\obj\Debug\ex006.pdb

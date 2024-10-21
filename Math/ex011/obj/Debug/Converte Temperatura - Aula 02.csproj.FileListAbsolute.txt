@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\bin\Debug\Converte Temperatura - Aula 02.exe.config
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\bin\Debug\Converte Temperatura - Aula 02.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\bin\Debug\Converte Temperatura - Aula 02.pdb
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\obj\Debug\Converte Temperatura - Aula 02.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\obj\Debug\Converte Temperatura - Aula 02.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\obj\Debug\Converte Temperatura - Aula 02.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Converte Temperatura - Aula 02\obj\Debug\Converte Temperatura - Aula 02.pdb

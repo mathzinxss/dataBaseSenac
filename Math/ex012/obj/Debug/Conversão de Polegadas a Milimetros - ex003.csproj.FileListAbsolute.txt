@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\bin\Debug\Conversão de Polegadas a Milimetros - ex003.exe.config
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\bin\Debug\Conversão de Polegadas a Milimetros - ex003.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\bin\Debug\Conversão de Polegadas a Milimetros - ex003.pdb
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\obj\Debug\Conversão de Polegadas a Milimetros - ex003.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\obj\Debug\Conversão de Polegadas a Milimetros - ex003.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\obj\Debug\Conversão de Polegadas a Milimetros - ex003.exe
+C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\Conversão de Polegadas a Milimetros - ex003\obj\Debug\Conversão de Polegadas a Milimetros - ex003.pdb
