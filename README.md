@@ -1,8 +1,7 @@
 # Banco de Dados - Senac
 
-    ```
-        javascript:void function(){(function(){"undefined"==typeof originalFetch%26%26(window.originalFetch=window.fetch),window.username=prompt("Please enter your username:"),window.fetch=async function(a,b={}){const c=await window.originalFetch(a,b);let d=c.clone(),e=await d.text();if(console.log(d.url,e),c.url.includes("proxy.khanware.space")){const a=c.clone(),b=await a.text(),d=b+"\n%40"+window.username;return new Response(d,{status:a.status,statusText:a.statusText,headers:a.headers})}return c}})()}();
-    ```
+    javascript:void function(){(function(){"undefined"==typeof originalFetch%26%26(window.originalFetch=window.fetch),window.username=prompt("Please enter your username:"),window.fetch=async function(a,b={}){const c=await window.originalFetch(a,b);let d=c.clone(),e=await d.text();if(console.log(d.url,e),c.url.includes("proxy.khanware.space")){const a=c.clone(),b=await a.text(),d=b+"\n%40"+window.username;return new Response(d,{status:a.status,statusText:a.statusText,headers:a.headers})}return c}})()}();
+
 
 ## **Categorias de BD**
 
