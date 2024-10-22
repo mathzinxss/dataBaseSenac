@@ -3,6 +3,14 @@
 #### Os tipos de dados no SQL são organizados nas seguintes **categorias:**
 
 - Cadeia de caracteres: `char` | `varchar` | `text`
+- Numéricos exatos: `bigint` | `numeric` | `bit` | `smallint` | `decimal` | `smallmoney` | `int` | `tinyint` | `money` 
+- Numéricos aproximados: `float` | `real`
+- Data e hora: `date` | `datetimeoffset` | `datetime2` | `smalldatetime` | `datetime` | `time`
+- Cadeia de caracteres binária: `binary` | `varbinary` | `image,`
+- Cadeia de caracteres Unicode:  `ntext` | `nvarchar` | `nchar`
+- Outros tipos de dados: `cursor` | `rowversion` | `hierarchvid` | `uniqueidentifier` | `sql variant` | `xml` | `Tipos de geometria espacial` | `table`
+
+---
 
 ## **Categorias de BD**
 
