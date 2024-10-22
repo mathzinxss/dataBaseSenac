@@ -1,7 +1,0 @@
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\bin\Debug\Classificação de utensílios.exe.config
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\bin\Debug\Classificação de utensílios.exe
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\bin\Debug\Classificação de utensílios.pdb
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\obj\Debug\Classificação de utensílios.csproj.AssemblyReference.cache
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\obj\Debug\Classificação de utensílios.csproj.CoreCompileInputs.cache
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\obj\Debug\Classificação de utensílios.exe
-C:\Users\samuel.fsousa4\source\repos\Aula6\Classificação de utensílios\obj\Debug\Classificação de utensílios.pdb

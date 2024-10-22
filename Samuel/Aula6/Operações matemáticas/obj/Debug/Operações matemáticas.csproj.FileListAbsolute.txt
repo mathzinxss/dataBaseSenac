@@ -1,7 +1,0 @@
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\bin\Debug\Operações matemáticas.exe.config
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\bin\Debug\Operações matemáticas.exe
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\bin\Debug\Operações matemáticas.pdb
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\obj\Debug\Operações matemáticas.csproj.AssemblyReference.cache
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\obj\Debug\Operações matemáticas.csproj.CoreCompileInputs.cache
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\obj\Debug\Operações matemáticas.exe
-C:\Users\samuel.fsousa4\source\repos\Aula6\Operações matemáticas\obj\Debug\Operações matemáticas.pdb

@@ -1,7 +1,0 @@
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\bin\Debug\primeiroPrograma.exe.config
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\bin\Debug\primeiroPrograma.exe
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\bin\Debug\primeiroPrograma.pdb
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\obj\Debug\primeiroPrograma.csproj.AssemblyReference.cache
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\obj\Debug\primeiroPrograma.csproj.CoreCompileInputs.cache
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\obj\Debug\primeiroPrograma.exe
-C:\Users\mathias.fsilva\source\repos\Aulas\Aula 3\primeiroPrograma\obj\Debug\primeiroPrograma.pdb
