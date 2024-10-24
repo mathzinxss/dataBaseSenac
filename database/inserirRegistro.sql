@@ -1,13 +1,13 @@
 USE bdExemplo1;
 
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Mathias Fernando', 'sP', '11', '12345-6789');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Ana Clara da Silva', 'SP', '11', '98765-4321');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Lucas Oliveira Santos', 'MG', '31', '54321-9876');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Fernanda Costa', 'RJ', '21', '11111-1111');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Pedro Henrique', 'SP', '11', '22222-2222');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Beatriz Rodrigues', 'MG', '31', '33333-3333');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('João Paulo', 'RJ', '21', '44444-4444');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Camila Soares', 'SP', '11', '55555-5555');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Felipe Santos', 'MG', '31', '66666-6666');
-INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Larissa Almeida', 'RJ', '21', '77777-7777');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Marina Lopes', 'pe', '81', '99781-2345');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Gustavo Mendes', 'ES', '27', '99256-7890');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Rafaela Nunes', 'MT', '65', '99678-1234');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Thiago Barbosa', 'GO', '62', '99432-8765');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Letícia Barbosa', 'PA', '91', '99432-8765');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Eduardo Lima', 'MG', '31', '99781-2345');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Juliana Azevedo',  'SP', '11', '99256-7890');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('André Silva Correia', 'MS', '67',  '99678-1234');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Patrícia Ferreira',  'AC', '68', '99432-8765');
+INSERT INTO tb_clientes(nome, uf, ddd, telefone) VALUES ('Rodrigo Almeida', 'RN', '84', '99321-4567')
 
