@@ -93,3 +93,109 @@ delete from alunos where id_alunos = 1
 Para consultar:
 select * from alunos where mensalidade > 300
 
+## **Consulta com Critérios**
+
+##### Seleção de todos os campos usados
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela;
+```
+
+##### Seleção de apenas dois campos
+
+```sql
+USE bancoDeDados;
+
+SELECT coluna1, coluna2 FROM tabela
+```
+
+##### Quando se utiliza o igual, procura sua informação de forma EXATA que foi acrescentada no código 
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela WHERE coluna = 'produto da coluna'
+```
+
+#### **Exemplos:**
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tb_clientes WHERE ddd = 11
+```
+---
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tb_clientes WHERE uf = 'sp'
+```
+---
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tb_clientes WHERE telefone = '12345-6789'
+```
+---
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tb_clientes WHERE nome = 'Mathias Fernando'
+```
+
+##### Para filtrar a pesquisa utilizando poucas informações do produto, utilizamos o `%` para  indicar que queremos buscar por qualquer coisa antes ou depois da palavra que foi digitada.
+
+**Exemplo:**
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela WHERE coluna LIKE '%fração do produto%'
+```
+
+- Quando é utilizando apenas  o `%` no início da palavra, ele procura por qualquer coisa antes da palavra que foi digitada.
+- Quando é utilizado o `%`  no final da palavra, ele procura por qualquer coisa depois da palavra que foi digitada.
+- Quando é utilizado o `%` no início e no final da palavra, ele procura por  qualquer coisa antes e depois da palavra que foi digitada.
+
+##### Para filtrar a pesquisa por ordem crescentes e decrescentes utilizamos o `ORDER BY`
+
+- Para ordem crescentes utilizamos o `ASC`: 
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela ORDER BY coluna ASC
+```
+
+- Para ordem decrescente utilizamos o `DESC`: 
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela ORDER BY coluna DESC
+```
+
+##### Para utilizar mais de um filtro na pesquisa utilizamos o `AND` ou `OR`
+
+**Exemplo:**
+
+- Para pesquisar um produto expecífico que necessariamente precisa conter dois valores ou mais expecíficos, utilizamos o `AND`. "Quero que  o produto seja azul E tenha 10 cm de comprimento".
+
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela WHERE coluna1 LIKE '%critério1%' AND coluna2  LIKE '%critério2%'
+```
+
+- Para pesquisar um produto expecífico que não precisam conter dois valores ou mais expecíficos, utilizamos o `OR`. "Eu preciso de um lápis de cor azul OU o vermelho, tanto faz a cor."
+
+```sql
+USE bancoDeDados;
+
+SELECT * FROM tabela WHERE coluna1 LIKE '%critério1%' OR coluna2  LIKE '%critério2%'
+```
+
+
