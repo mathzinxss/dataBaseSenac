@@ -12,5 +12,4 @@ USE bdExemplo1;
 -- SELECT * FROM tb_clientes WHERE telefone LIKE '%-%'
 -- SELECT * FROM tb_clientes ORDER BY nome ASC --> Para chamar produtos em ordem crescentes, como ordem alfabetica
 -- SELECT * FROM tb_clientes ORDER BY nome DESC  --> Para chamar produtos em ordem decrescentes, como ordem alfabetica invertida
-
 -- SELECT * FROM tb_clientes WHERE nome LIKE '%z%' AND telefone  LIKE '%2%'
