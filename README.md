@@ -181,7 +181,7 @@ SELECT * FROM tabela ORDER BY coluna DESC
 
 **Exemplo:**
 
-- Para pesquisar um produto expecífico que necessariamente precisa conter dois valores ou mais expecíficos, utilizamos o `AND`. "Quero que  o produto seja azul E tenha 10 cm de comprimento".
+- Para pesquisar um produto expecífico que necessariamente precisa conter dois valores ou mais expecíficos, utilizamos o `AND`. "Quero que  o produto seja azul **E** tenha 10 cm de comprimento".
 
 
 ```sql
@@ -190,7 +190,7 @@ USE bancoDeDados;
 SELECT * FROM tabela WHERE coluna1 LIKE '%critério1%' AND coluna2  LIKE '%critério2%'
 ```
 
-- Para pesquisar um produto expecífico que não precisam conter dois valores ou mais expecíficos, utilizamos o `OR`. "Eu preciso de um lápis de cor azul OU o vermelho, tanto faz a cor."
+- Para pesquisar um produto expecífico que não precisam conter dois valores ou mais expecíficos, utilizamos o `OR`. "Eu preciso de um lápis de cor azul **OU** o vermelho, tanto faz a cor."
 
 ```sql
 USE bancoDeDados;
